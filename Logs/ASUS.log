@@ -1,0 +1,4 @@
+2023-04-03 20:15:06,387 - user.ASUS - random_test.py - WARNING - File modified: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\ab.txt
+2023-04-03 20:15:10,435 - user.ASUS - random_test.py - WARNING - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\b.txt
+2023-04-04 08:24:25,845 - user.ASUS - random_test.py - WARNING - File modified: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\hello.txt
+2023-04-04 08:24:29,869 - user.ASUS - random_test.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\1.txt
